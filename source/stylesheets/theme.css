@@ -25,10 +25,14 @@ h1 {
   font-size: 3em;
 }
 h2 {
-  font-size: 2.5em;
+  font-size: 40px;
+  letter-spacing: 0.06em;
+  word-spacing: 0.06em;
+  text-shadow: -1px 1px 10px #704111;
 }
 h3 {
   font-size: 2em;
+  font-color: #FFFDD0;
 }
 h4 {
   font-size: 1.4em;
@@ -249,7 +253,5 @@ footer.row {
   border-top: solid 1px #DDD;
   padding: 4em 0px;
 }
-
-h3 {color: #412500}
 
 p {font-size: 16px}
