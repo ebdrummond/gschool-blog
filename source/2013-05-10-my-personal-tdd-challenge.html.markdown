@@ -1,6 +1,6 @@
 ---
 title: my personal TDD challenge
-date: 2013-05-10 19:32
+date: 2013-05-10 19:32a
 tags:
 ---
 
