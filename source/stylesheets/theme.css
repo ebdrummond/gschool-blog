@@ -1,41 +1,42 @@
 body {
-  background: #C5EBAB;
-  font-family: "Archivo Narrow", "Roboto Condensed", "Lustria", "Helvetica Neue", "HelveticaNeue", Helvetica, sans-serif;
+  background: white;
+  font-family: "Helvetica Neue", "HelveticaNeue", Helvetica, sans-serif;
   font-size: 14px;
   line-height: 18px;
-  color: #704111;
+  color: black;
 }
 a {
-  color: #704111;
+  color: black;
 }
 a:hover {
-  color: #B5651D;
+  color: #2f574e;
 }
 header {
   padding: 3em 0px 3em 0px;
 }
 nav a {
   margin-right: 0.5em;
-  color: #FFFDD0;
+  color: #18453B;
 }
 nav a:hover {
-  color: #FFFDD0;
+  color: #18453B;
 }
 h1 {
-  font-size: 3em;
+  font-size: 3.5em;
+  padding: 0.3em;
+  padding-left: 0.5em;
+  padding-bottom: 0.1em;
 }
 h2 {
-  font-size: 40px;
-  letter-spacing: 0.06em;
-  word-spacing: 0.06em;
-  text-shadow: -1px -1px 10px #F582DA;
+  font-size: 3em;
 }
 h3 {
   font-size: 2em;
   font-color: #FFFDD0;
 }
 h4 {
-  font-size: 1.4em;
+  font-size: 1.6em;
+  padding-left: 3em;
 }
 h5 {
   font-size: 1.2em;
@@ -52,7 +53,7 @@ h6,
 .top-nav,
 .nav-bar,
 .sub-nav {
-  font-family: "Archivo Narrow", "Roboto Condensed", 'PT Sans', sans-serif;
+  font-family: "HelveticaNeue", sans-serif;
 }
 .bottom-border {
   border-bottom: 4px solid #a2a2a2;
@@ -81,9 +82,9 @@ a.logo:hover {
 }
 div.panel {
   background: #efefef;
-  background: -moz-linear-gradient(top, #EFDECD 0%, #EFDECD 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #EFDECD), color-stop(100%, #EFDECD));
-  background: -o-linear-gradient(top, #EFDECD 0%, #EFDECD 100%);
+  background: -moz-linear-gradient(top, white 0%, white 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, white), color-stop(100%, white));
+  background: -o-linear-gradient(top, white 0%, white 100%);
 }
 .blue.button {
   background-color: #2f84c2;

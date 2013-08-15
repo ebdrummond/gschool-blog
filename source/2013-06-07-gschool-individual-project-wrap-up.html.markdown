@@ -4,7 +4,7 @@ date: 2013-06-07 09:12 -06:00
 tags:
 ---
 
-It's difficult to describe this as the "wrap-up" to my project, because there is still a ton of work that I am going to do to it.  I have a pretty massive list at home of all the things I'm planning on tweaking, adding, removing, optimizing, addressing - ALL THE INGs.  Still, at the end of the formal project portion of this undertaking, I'm pretty proud of my work.  There's things I'd do differently and a lot I want to make better, but I am really proud that I was able to do this on my own (with some help from instructors and Brock, especially for the Javascript portion) given I've only been developing for four and a half months.
+It's difficult to describe this as the 'wrap-up' to my project, because there is still a ton of work that I am going to do to it.  I have a pretty massive list at home of all the things I'm planning on tweaking, adding, removing, optimizing, addressing - ALL THE INGs.  Still, at the end of the formal project portion of this undertaking, I'm pretty proud of my work.  There's things I'd do differently and a lot I want to make better, but I am really proud that I was able to do this on my own (with some help from instructors and Brock, especially for the Javascript portion) given I've only been developing for four and a half months.
 
 I knew this project was going to be tough, and the two toughest things for me were dealing with the Javascript, and correctly figuring out the logic for the open time slots on any given day for a given appointment duration the client was requesting.  If the time slots were all one hour long and started on the hour, it would have been easy peasy, but the appointments could be 60 or 90 minutes, and started every half hour.  The final code needs refactoring, but I tested the shit out of it with a context for every contingency of appointment variation, so I know the logic is sound even if the code needs clean up.  This will be especially helpful when I work on Meghan's final site - she actually has appointment times ranging from 30 to 90 minutes with 15 minute increments, and her hours vary by day, with a few days having large gaps in the afternoon.  Now that I know what I'm doing, I'm confident I'll be able to make these changes for the final product.
 
@@ -16,6 +16,6 @@ All in all, I'm proud of the work I've done, both with the site and in general w
 
 
 
-Her site can be seen here: <a href="http://www.newleafmassage.net">newleafmassage.net</a>
+Her site can be seen here: newleafmassage.net
 
 Look for exciting updates once gSchool is complete and I have the time to finish this up!

@@ -8,7 +8,7 @@ Son of Store Engine was an interesting project for me.  I started off feeling a 
 
 I also got the chance to put processor controllers and models into play for information that we wanted to render on one page, but involved four different forms and databases.  This was something I attempted to do last project and failed pretty miserably, but I had really wanted to try this project.  It took a little wrangling to get it, but I think the final result was pretty clean code and I'm so glad I know how to do this now.  Here's a snippet:
 
-```ruby
+
 class Checkout
 
   def initialize(params)
@@ -40,8 +40,8 @@ class Checkout
     new_credit_card
   end
 end
-```
 
-Overall, I think our project wasn't great (there's a lot more I would have liked to do with a few extra days), but I think it was pretty good.  The final result is here: <a href="http://pink-sose.herokuapp.com/">pink-sose.herokuapp.com</a>.
+
+Overall, I think our project wasn't great (there's a lot more I would have liked to do with a few extra days), but I think it was pretty good.  The final result is here: pink-sose.herokuapp.com
 
 It also feels weird to be at the halfway point of gSchool.  It feels like ages ago we were doing logic problems for warmups and getting stressed over Event Manager.  At the same time, it went by quickly with all we've been doing, and I'm hoping that July 19th comes as quickly as well.  My big hope for the second half of the program is that I can manage the stress a little better, and maximize my learning with the time I'm putting in.  I've been putting in about 12 to 14 hours a day during the weekdays on average, and 8 to 12 on weekends when we're working on a project.  At the same time, I feel like there's still so much that we're exposed to that I'm not learning as well as I'd like, and the physical exhaustion and frustration over all the things I haven't been able to pick up yet are taking their toll.

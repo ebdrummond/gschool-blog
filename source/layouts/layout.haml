@@ -14,16 +14,17 @@
     <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css" rel="stylesheet">
 
     / bootsrap cdn ^
-    = stylesheet_link_tag "overrides.css", "bootstrap.min.css"
+    = stylesheet_link_tag "overrides.css", "bootstrap.min.css", "theme.css"
     = javascript_include_tag "foundation/modernizr.foundation"
     %link{rel: "alternate", type: "application/rss+xml", title: "RSS Feed", href: "feed.xml"}
 
-    
+
   %body{class: page_classes}
     .row
       .span12
-        %h2
-          %a{href: "/"}= data.site.title
+        %h1
+          %a{href: "/", id: "headline"}= data.site.title
+          %h4 a blog by ebdrummond
         %hr
       .span8.offset1
         = yield
@@ -41,9 +42,9 @@
           %dd.active
             %a{href: "#recent"} Recent Articles
           %dd
-            %a{href: "../about.html"} About Me
+            %a{href: "/about.html"} About Me
           %dd
-            %a{href: "../resume.html"} Resume
+            %a{href: "/resume.html"} Resume
         %ul.tabs-content
           %li#recentTab.active
             %h4 Recent Articles

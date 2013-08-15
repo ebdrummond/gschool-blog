@@ -10,7 +10,7 @@ At the same time, I learned a lot from this project.  The two things I'm happies
 
 An example of refactoring can be seen in our implementation of the logic relating to the user show page.  For this page, we needed to break a user's trips out into current trips, past trips, and upcoming trips, AND we needed to determine whether the trip was private AND we needed to determine, if the trip was private, if the current viewer was authorized to view the trip.  Sounds easy, right?  I really wasn't expecting it to be that horribly difficult, but it ended up being harder than I thought to implement all of this logic in one place.
 
-The way I originally wrote this part of the code, I had current, past, and upcoming trips in the Trip model, and handled the logic for whether the current user could view each trip in the controller.  Raph put a stop to that.  We ended up extracting all of this logic into a UserShow class, which took in the current user and the user whose profile was being viewed, ran through each trip to see if it was private and if the current user had viewing rights, and then split the trips into their correct timeframe.  You can view the final implementation <a href="https://github.com/raphweiner/feed_engine/blob/master/app/lib/user_show.rb">here</a>.
+The way I originally wrote this part of the code, I had current, past, and upcoming trips in the Trip model, and handled the logic for whether the current user could view each trip in the controller.  Raph put a stop to that.  We ended up extracting all of this logic into a UserShow class, which took in the current user and the user whose profile was being viewed, ran through each trip to see if it was private and if the current user had viewing rights, and then split the trips into their correct timeframe.  You can view the final implementation here: https://github.com/raphweiner/feed_engine/blob/master/app/lib/user_show.rb.
 
 I also learned to place even more value on communicating with your team, especially when you're touching someone else's code.  There were a number of times that I pulled down master to build on code I had previously implemented, and found it had been refactored so much that I had to spend half an hour just figuring out what the heck it was now doing.  Worse, there were times files I had been working on were deleted or the refactoring broke the code I had originally written.  This was pretty frustrating for me, and I'm even more aware now that if you're touching someone else's code, it's a great idea to work with them first.
 
@@ -21,12 +21,8 @@ I'm also really excited to be starting our independent project next week.  I don
 One of the requirements for this project is to build an API and gem on our own, which I think fits in nicely with the scheduling component.  There are a few other gems out there that I found, but none of them have been maintained in the past year; I'd also love if my gem would give back to the community so that other people can use it for their own projects as well.
 
 I'm really excited to be doing this project, for a few reasons.
-<ul>
-  <li>I think the building out the scheduling component will be a pretty difficult, and it's a challenge that I think will be extremely rewarding.</li>
-  <li>I really want to give this gift to my sister.  Not only is she basically one of the most wonderful, caring, compassionate people on the planet and I want to help her grow her business, she also hooks me up with free massages.</li>
-  <li>I'm really glad to be doing this project while I'm in gSchool.  Since this is a site that will actually be used, security is a big concern and I want to be sure that everything is locked down.  It will be really good to have that second set of eyes from my instructors so they can let me know if there are any vulnerabilities that I overlooked.</li>
-</ul>
+1) I think the building out the scheduling component will be a pretty difficult, and it's a challenge that I think will be extremely rewarding.
+2) I really want to give this gift to my sister.  Not only is she basically one of the most wonderful, caring, compassionate people on the planet and I want to help her grow her business, she also hooks me up with free massages.
+3) I'm really glad to be doing this project while I'm in gSchool.  Since this is a site that will actually be used, security is a big concern and I want to be sure that everything is locked down.  It will be really good to have that second set of eyes from my instructors so they can let me know if there are any vulnerabilities that I overlooked.
 
 So, super excited to get cracking on that, but also, not going to lie - I'm excited about the long weekend too!
-
-<img src="http://media.tumblr.com/cfdea1e4878e1fd5608cd3f01f3f7067/tumblr_inline_mlmhy9dXmN1qz4rgp.gif">

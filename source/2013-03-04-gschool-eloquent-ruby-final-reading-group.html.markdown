@@ -4,7 +4,7 @@ date: 2013-03-04 14:44 -07:00
 tags:
 ---
 
-The metaprogramming section of Eloquent Ruby was a really interesting read, and I'm looking forward to my skill level being advanced enough to take advantage of these methods, but as with large parts of the rest of the book, my main takeaway was that EQ will be an excellent reference once I have a better handle on what I'm doing.  At my current skill level, I have to say "Hell no!" to even attempting to implement most of what I read - I have a feeling that in no time at all, I'd have completely jacked up Ruby if I attempted it now.
+The metaprogramming section of Eloquent Ruby was a really interesting read, and I'm looking forward to my skill level being advanced enough to take advantage of these methods, but as with large parts of the rest of the book, my main takeaway was that EQ will be an excellent reference once I have a better handle on what I'm doing.  At my current skill level, I have to say 'Hell no!' to even attempting to implement most of what I read - I have a feeling that in no time at all, I'd have completely jacked up Ruby if I attempted it now.
 
 I am looking forward to making good use of method_missing and aliases for those times you know users may get a term or syntax wrong, and you can proactively correct it for them.  Self-modification in your program sounds like a great idea, but right now the thought kind of terrifies me, in that all I can think is that with great power comes great responsibility to know what the hell you're doing.
 
