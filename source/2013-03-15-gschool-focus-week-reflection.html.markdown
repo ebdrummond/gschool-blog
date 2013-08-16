@@ -1,7 +1,7 @@
 ---
-title: gSchool - Focus Week Reflection
+title: gSchool Focus Week Reflection
 date: 2013-03-15 09:02 -06:00
-tags:
+tags: gSchool
 ---
 
 I really enjoyed this focus week and the chance to catch my breath and review what I've learned so far.  I started the week, quite frankly, pretty surprised with the group I was in - I thought for sure I would be in the refresher group, but I was placed in the intermediate group, where we worked on re-doing Sales Engine in the context of a web app.  It was honestly really helpful for me to be able to re-do an old project with the knowledge that I now have.  When I first did Sales Engine, it was a struggle for me, the code I wrote felt very awkward, and some of what Jeff/Raphael helped us with for code creation and refactoring was still really fuzzy in my mind.  This go around, I felt more confident I understood the concepts, and the code felt a lot more natural to me.  I also focused much more intensively on testing, which I think helped to instill confidence in my code as I was writing it, and helped me to catch bugs early on.

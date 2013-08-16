@@ -1,7 +1,7 @@
 ---
-title: gSchool - The Passionate Programmer - Reading Group 1
+title: The Passionate Programmer Reading Group 1
 date: 2013-02-03 15:49 -07:00
-tags:
+tags: gSchool, reading group
 ---
 
 Be the worst.  This goes against everything most of us were taught, and puts us squarely outside of our comfort zone.  It can be intimidating to be in a group of people all more knowledgable than you are, and it's easy to second guess yourself if you happen to be the one that's less skilled than everyone else.  You're supposed to take every opportunity to shine (be it individually or as a group) and to show it, and I think most of us naturally like being in groups where we're comfortable in the knowledge that we're towards the top of the talent.  Be the worst is the tip that resonanted most strongly with me in reading the first half of TPP and I think it relates well to my next six months.  I knew gSchool was going to be a challenge and take me squarely outside of my comfort zone by pushing me every single day, but I would agree that 9 times out of 10, this is where you're going to get your most serious development and experience.  Especially if you're lucky enough to be in an environment where those around you are helpful and willing to lend a hand, there's no reason not to be the worst.

@@ -1,7 +1,7 @@
 ---
-title: gSchool - Individual Project Wrap Up
+title: Individual Project Wrap Up
 date: 2013-06-07 09:12 -06:00
-tags:
+tags: gSchool, new leaf massage
 ---
 
 It's difficult to describe this as the 'wrap-up' to my project, because there is still a ton of work that I am going to do to it.  I have a pretty massive list at home of all the things I'm planning on tweaking, adding, removing, optimizing, addressing - ALL THE INGs.  Still, at the end of the formal project portion of this undertaking, I'm pretty proud of my work.  There's things I'd do differently and a lot I want to make better, but I am really proud that I was able to do this on my own (with some help from instructors and Brock, especially for the Javascript portion) given I've only been developing for four and a half months.

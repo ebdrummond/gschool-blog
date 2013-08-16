@@ -1,7 +1,7 @@
 ---
 title: my personal TDD challenge
 date: 2013-05-10 19:32a
-tags:
+tags: personal project, new blog, tdd
 ---
 
 I'm not the happiest with middleman and want to address a few challenges, so I'm creating a blog from scratch with Rails, hopefully without needing to reference the Blogger tutorial at all.

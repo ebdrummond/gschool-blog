@@ -1,7 +1,7 @@
 ---
-title: gSchool - Feed Engine Week 1
+title: Feed Engine Week 1
 date: 2013-05-10 11:06 -06:00
-tags:
+tags: feed engine, gSchool
 ---
 
 The thing I'm most excited about with my FeedEngine project is that once it's finished, I'll actually want to use it.  We're building a group travel blog that lets you integrate the Twitter, Instagram, and Foursquare activities for all travelers within a trip.  I really love to travel and usually am pretty poor about documenting my travels aside from taking pictures and posting them to Facebook when I get home, so this is a product I will actually use.  I'm sure other people who want to document a group trip in this way would like to use it as well - although to be honest, I don't think it's a bad product for just a solo trip either.

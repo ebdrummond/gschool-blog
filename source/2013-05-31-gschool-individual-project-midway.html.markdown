@@ -1,7 +1,7 @@
 ---
-title: gSchool - Individual Project Midway
+title: Individual Project Midway
 date: 2013-05-31 10:07 -06:00
-tags:
+tags: gSchool, new leaf massage
 ---
 
 My feelings upon starting the individual project were a mixture of excitement and nervousness, weighted towards the former.  It was scary to think though - I was hoping through this project, I'd realize I know more than I think I do, but was nervous the opposite would turn out to be true.  I can happily report that, so far, I'm feeling my knowledge is right about where I thought it was.  I'm not the world's greatest gift to programming, but I'm certainly not awful either.

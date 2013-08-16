@@ -1,7 +1,7 @@
 ---
-title: gSchool - Feed Engine Retrospective
+title: Feed Engine Retrospective
 date: 2013-05-24 14:47 -06:00
-tags:
+tags: gSchool, feed engine
 ---
 
 Ah - FeedEngine is in the books.  For some reason, this was a difficult project to get through, even though I loved what we were building.  It seems like we've reached a point in the class where a lot of people are feeling burned out, and I think that impacted some of our team this project - we ended up dropping a lot of the functionality that I wanted to implement because we couldn't get through it all with the amount of work the group as a whole was putting in.

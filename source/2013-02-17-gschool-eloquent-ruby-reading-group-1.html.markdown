@@ -1,7 +1,7 @@
 ---
-title: gSchool - Eloquent Ruby - Reading Group 1
+title: Eloquent Ruby Reading Group 1
 date: 2013-02-17 18:33
-tags:
+tags: gSchool, reading group
 ---
 
 Before picking up Eloquent Ruby, I had used symbols in my code numerous times, but never really understood why it was I was using them.  I had them explained to me a few different places, but why I was using them was still a little difficult for me to master.  After the chapter on symbols, I'm not sure I'll still jump to the knowing exactly when would be the best time to use a symbol, but the way the information was presented in the book, I feel like when I am led to use them now, I will understand why I'm doing so - I'm using 'the eyes peering out from the tilted head of a confused but friendly dog' because I want the symbol to be a constant in a way that a string is not.

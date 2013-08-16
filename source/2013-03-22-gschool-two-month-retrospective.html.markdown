@@ -1,7 +1,7 @@
 ---
-title: gSchool - Two Month Retrospective
+title: gSchool Two Month Retrospective
 date: 2013-03-22 09:03 -06:00
-tags:
+tags: gSchool
 ---
 
 This week was the first time I was introduced to Rails with the Blogger project.  Having programmed in Ruby so far, it was very different to me, especially with respect to how much Rails automatically does for you.  It makes it really helpful that you're not writing a ton of finder methods, joining tables, or having to define a create method, but at the same time the level to which Rails is hands off feels really foreign to me still.  I'm sure I'll feel more acquainted in no time (Ruby felt the same way at first).  It also felt really weird how little 'classical' Ruby we wrote for blogger, and how empty the models were.  Before I started this project, not knowing Rails, I couldn't understand how people could even attempt to be a Rails developer without knowing Ruby, but now I can see why someone might think they could hack it (although I would not recommend it).

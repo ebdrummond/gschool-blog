@@ -1,7 +1,7 @@
 ---
-title: gSchool - Son of Store Engine Midway Retrospective
+title: Son of Store Engine Midway Retrospective
 date: 2013-04-12 09:53 -06:00
-tags:
+tags: son of store engine, gSchool
 ---
 
 It's been quite the week.  We started Son of Store Engine, which takes code from our last project and adds on to it - but we can't sacrifice any of the functionality from the last project in reworking the code.  I am happy that we have a project like this and not everything is built from scratch.  The reality is that most everyone will be working with legacy code when we're done, and this is really good practice for me.  So far, I've found it to be harder than building something from scratch in a lot of respects; I first have to understand what the code is doing (some of it is written in a style I'm not used to).  Then, there have been a few times I've built on top of something or tweaked something seemingly insignificant, and previous functionality has broken, so it's an extremely valuable lesson.

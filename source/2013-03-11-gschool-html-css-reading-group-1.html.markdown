@@ -1,7 +1,7 @@
 ---
-title: gSchool - HTML & CSS - Reading Group 1
+title: HTML & CSS Reading Group 1
 date: 2013-03-11 15:31 -06:00
-tags:
+tags: gSchool, reading group
 ---
 
 I found this reading to be really interesting.  I took a class all the way back in my freshman year of high school on basic html, and it was surprising how much looked the same.  The things that have changed are pretty exciting - no more fontface, no more cell padding.  I also didn't realize how much that used to be done purely in html is moving over as a function of CSS.

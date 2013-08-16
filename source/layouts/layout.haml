@@ -21,43 +21,40 @@
 
   %body{class: page_classes}
     .row
-      .span12
+      .site_headline_left
         %h1
           %a{href: "/", id: "headline"}= data.site.title
-          %h4 a blog by ebdrummond
-        %hr
+          %h4{id: "subheader"} a blog by ebdrummond
+      .site_headline_right
+        = link_to image_tag("github.png"), "http://github.com/ebdrummond", :target => "_blank"
+        = link_to image_tag("linked_in.png"), "http://www.linkedin.com/pub/erin-drummond/a/59/943/", :target => "_blank"
+        = link_to image_tag("twitter.png"), "http://twitter.com/ebdrummond", :target => "_blank"
+      %hr
       .span8.offset1
         = yield
       / Application Javascript, safe to override
       = javascript_include_tag "app"
-      .well.span4
-        .panel
-          - if paginate
-            %p
-              Page
-              = page_number
-              of
-              = num_pages
-        %dl.tabs
-          %dd.active
-            %a{href: "#recent"} Recent Articles
-          %dd
+      .span4
+        .panel{id: "nav-panel"}
+          %h4
             %a{href: "/about.html"} About Me
-          %dd
+          %h4
             %a{href: "/resume.html"} Resume
-        %ul.tabs-content
-          %li#recentTab.active
+        .panel{id: "recent-articles"}
+          #recentTab.active
             %h4 Recent Articles
-            %ul.disc
+            %ul{id: "recent-articles"}
               - blog.articles[0...10].each do |article|
                 %li
                   %a{href: "#{article.url}"}
                     = article.title
-                  %span= article.date.strftime('%b %e')
-          %li#tagsTab
+                    \-
+                    = article.date.strftime('%b %e')
+        .panel{id: "recent-articles"}
+          #tagsTab
             %h4 Tags
-            %ul.disc
-              - blog.tags.each do |tag, articles|
+            %ul{id: "recent-articles"}
+              - blog.tags.sort_by{|key, value| value.count}.reverse.each do |tag, articles|
                 %li
                   %a{href: "#{tag_path tag}"}
                     = "#{tag} (#{articles.size})"

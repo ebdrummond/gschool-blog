@@ -1,7 +1,7 @@
 ---
-title: gSchool - Boulder Startup Week
+title: Boulder Startup Week
 date: 2013-05-17 14:06 -06:00
-tags:
+tags: boulder, gSchool
 ---
 
 Yesterday we took a group trip up to Boulder to participate in Boulder Startup Week, and even though it meant sacrificing a work day which we really need for our project, I'm so glad we went.  I met a ton of really awesome people, got to take a look around some really interesting companies, and saw a new side of Boulder that I hadn't explored yet.

@@ -1,7 +1,7 @@
 ---
-title: gSchool - Eloquent Ruby - Final Reading Group
+title: Eloquent Ruby Final Reading Group
 date: 2013-03-04 14:44 -07:00
-tags:
+tags: gSchool, reading group
 ---
 
 The metaprogramming section of Eloquent Ruby was a really interesting read, and I'm looking forward to my skill level being advanced enough to take advantage of these methods, but as with large parts of the rest of the book, my main takeaway was that EQ will be an excellent reference once I have a better handle on what I'm doing.  At my current skill level, I have to say 'Hell no!' to even attempting to implement most of what I read - I have a feeling that in no time at all, I'd have completely jacked up Ruby if I attempted it now.

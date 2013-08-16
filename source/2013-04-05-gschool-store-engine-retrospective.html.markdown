@@ -1,7 +1,7 @@
 ---
-title: gSchool - Store Engine Retrospective
+title: Store Engine Retrospective
 date: 2013-04-05 14:01 -06:00
-tags:
+tags: gSchool, store engine
 ---
 
 By far, Store Engine has been the most exciting project I've worked on.  It was awesome to be able to show my friends and my family an actual site that I'd built - somehow showing them all the awesome output from a command line just doesn't have the same pizzazz.  Not that I didn't work hard on my other projects too, but I felt like I pushed myself even harder for this project and poured myself into it very aggressively.  The final product is something I'm really proud of and I think my team made a great effort.  It really meant a lot too that we were chosen to present our project as a group demo.  It felt so good that not only did we come together and learn a ton, feel like we could all feed proud of our finished product, but that other people recognized the hard work we put in, too.

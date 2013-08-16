@@ -1,7 +1,7 @@
 ---
-title: gSchool - Traffic Spy/5 Week Retrospective
+title: Traffic Spy/5 Week Retrospective
 date: 2013-03-01 09:01 -07:00
-tags:
+tags: gSchool, traffic spy
 ---
 
 First class week of Traffic Spy is on the books.  This has been a really difficult assignment for me.  I think I understand how each of the individual pieces (Sinatra, databases, Ruby) work individually, but when I try to put them together, my brain just freezes up.  It's been hard to start, but I'm really glad my partner and I spent a good amount of time upfront conceptualizing how the pieces of the project would fit together instead of feeling we had to rush into code.  I've found that even though we do have a good idea of how the pieces fit, starting the coding has been difficult - we'll get one piece in, and then feel really confused about how to take a next step.  We're also getting really conflicting advice when we ask for help, but I think we've done relatively well at not spinning our wheels too much, picking a direction, and going for it.  I know this will eventually sink in, but I'm not there yet.  I feel really lucky to have a partner that's been really understanding, but I feel I haven't personally contributed very much brain power to this project.

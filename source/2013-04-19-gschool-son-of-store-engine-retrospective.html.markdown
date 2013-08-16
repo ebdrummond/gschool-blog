@@ -1,7 +1,7 @@
 ---
-title: gSchool - Son of Store Engine Retrospective
+title: Son of Store Engine Retrospective
 date: 2013-04-19 15:16 -06:00
-tags:
+tags: son of store engine, gSchool
 ---
 
 Son of Store Engine was an interesting project for me.  I started off feeling a little shaky on my Rails knowledge versus Store Engine, and I still feel like I have a ton to learn, but towards the end of the project I felt like the struggle I put in started to pay off.  In the beginning of the project, I began to realize I wasn't ever really sure how my params were being passed back and forth, what the heck was in my session, how I could get information from point A to point B, and by the end, I felt like I understood these things better.  A huge part of this process was the better errors gem and information contained there by default, and in the live shell.  It was enormously helpful to be able to inspect params, what was in my session, and be able to play around in the live shell to manipulate this information to output what I needed.  We had used better errors in Store Engine, but I felt like I didn't know how to harness it's power to my advantage until the latter part of this project.

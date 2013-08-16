@@ -1,7 +1,7 @@
 ---
-title: gSchool - Sales Engine Week 1 Retrospective
+title: Sales Engine Week 1 Retrospective
 date: 2013-02-15 08:59 -07:00
-tags:
+tags: gSchool, sales engine
 ---
 
 Now that the first week of Sales Engine is wrapped up, I'm feeling in a better place now than the first few days.  Starting out the project by looking over the specs, it was daunting but I kept my stress relatively low by reminding myself that we a) have a week and a half to complete the project and b) will be taking this one little baby step at a time.  I was also excited to try out programming with MiniTest - I knew that forces you to take little bites in your coding.  I worked with my partner, Shane, to map out how the baby steps we'd need to take to complete the project in Pivotal Tracker, and was ready to get to work.

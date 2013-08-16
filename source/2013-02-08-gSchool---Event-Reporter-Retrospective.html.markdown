@@ -1,7 +1,7 @@
 ---
-title: gSchool - Event Reporter Retrospective
+title: Event Reporter Retrospective
 date: 2013-02-08 15:49 -07:00
-tags:
+tags: gSchool, event reporter
 ---
 
 On Monday earlier this week we were assigned a project to work on, Event Reporter, to test our individual mastery of the basic Ruby we have learned so far.  The project we built was designed to prompt the user through the terminal to enter a defined set of commands, and manipulate data from a CSV file of registerees data from an event.  For example, if the user entered load file, our default registeree CSV should load, which the user could then use to look up, for example, how many people registered from zip code 80203.  The tool should store the user's search until a new search was performed, and the user would be able to view their selected search output from the terminal or save it to a new CSV.

@@ -1,7 +1,7 @@
 ---
-title: gSchool - Sales Engine Wrap-up
+title: Sales Engine Wrap-up
 date: 2013-02-22 09:06 -07:00
-tags:
+tags: gSchool, sales engine
 ---
 
 I still can't believe it's only been a week and a half since we started Sales Engine.  Looking back, it feels like three weeks have been packed into a week and a half.  I remember when I started the project, I felt awful - I struggled to start, required a ton of guidance, and didn't feel like I understood my code very well.  I felt very defeated during parts of that first week.  Now that we're done, I feel great - the weekend and second week went much more smoothly for me - the logic came a little bit easier, and when, like our warm-up exercises, I got the logic down but had some hiccups with execution, I felt less reserved about asking for help.  I think it has helped to watch our instructors work on warm-up exercises in front of the class and see that they, too, get input from the other instructors.  I guess it's taken the stigma out of it a bit.  The last part of the project, after thinking on it overnight and working for a while, I didn't know how to start, and felt comfortable asking for guidance instead of spinning my wheels and feeling frustrated like I would have before.

@@ -36,7 +36,14 @@ h3 {
 }
 h4 {
   font-size: 1.6em;
+}
+h4#subheader {
   padding-left: 3em;
+}
+h4#about-me {
+  font-size: 2em;
+  line-height: 110%;
+  margin-top: 0px;
 }
 h5 {
   font-size: 1.2em;
@@ -81,10 +88,27 @@ a.logo:hover {
   border-top: 4px solid #ededed;
 }
 div.panel {
-  background: #efefef;
+  background: white;
   background: -moz-linear-gradient(top, white 0%, white 100%);
   background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, white), color-stop(100%, white));
   background: -o-linear-gradient(top, white 0%, white 100%);
+  border-bottom: 1px solid black;
+  padding-top: 0.5em;
+  padding-bottom: 1.5em;
+}
+div.panel#nav-panel {
+  border-top: 1px solid black;
+  padding-top: 1.5em;
+  padding-left: 2em;
+}
+div.panel#recent-articles {
+  padding-left: 2em;
+  padding-top: 1.5em;
+}
+div.panel#next-page {
+  border-bottom: 0px;
+  padding-top: 2em;
+  font-size: 20px;
 }
 .blue.button {
   background-color: #2f84c2;
@@ -138,6 +162,9 @@ dl.sub-nav dd.active a {
   background: #2f84c2;
   color: #fff;
   padding: 3px 9px;
+}
+ul#recent-articles{
+  font-size: 16px;
 }
 ul.pagination li a {
   display: block;
@@ -255,4 +282,21 @@ footer.row {
   padding: 4em 0px;
 }
 
-p {font-size: 16px}
+p {
+  font-size: 20px;
+  line-height: 120%
+}
+hr {
+  border-top: 1px solid black;
+  width: 100%;
+}
+.site_headline_left {
+  float: left;
+  padding-left: 35px;
+}
+.site_headline_right {
+  float: right;
+  text-align: right;
+  padding-right: 50px;
+  padding-top: 20px;
+}

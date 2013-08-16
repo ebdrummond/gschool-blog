@@ -1,7 +1,7 @@
 ---
-title: gSchool - HTML & CSS - Reading Group 2
+title: HTML & CSS Reading Group 2
 date: 2013-03-18 15:50 -06:00
-tags:
+tags: gSchool, reading group
 ---
 
 It was really interesting for me to read the CSS portion of this book - I've never had any experience with CSS before, and it's interesting to see all the design elements you can implement with pure CSS alone.

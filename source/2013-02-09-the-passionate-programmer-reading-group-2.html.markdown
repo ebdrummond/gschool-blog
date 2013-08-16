@@ -1,7 +1,7 @@
 ---
-title: gSchool - The Passionate Programmer - Reading Group 2
+title: The Passionate Programmer Reading Group 2
 date: 2013-02-09 21:00
-tags:
+tags: gSchool, reading group
 ---
 
 Upon completion of The Passionate Programmer, there were a few overarching themes that I took from the book.  The first was to be curious - don't just stagnate in the programming language(s) that you know or the technologies that you're used to, but continually strive to learn new languages and new skills.  This helps you to prepare for the future, as most languages come and go and you will have a backup, but also helps you draw from a larger pool of knowledge to implement the best solutions for each project.  Coupled with this is the advice to take smart risks, especially with the 'bleeding edge' of technology - at best, you'll establish yourself in the next big thing, and at worst you've picked up a new skill set that has exercised your mental muscle.

@@ -1,7 +1,7 @@
 ---
-title: gSchool - Store Engine Midpoint Retrospective
+title: Store Engine Midpoint Retrospective
 date: 2013-03-29 09:02 -06:00
-tags:
+tags: gSchool, store engine
 ---
 
 I think this week has been most interesting from the perspective of learning to work with others in new ways.  Both from the perspective of the increased emphasis on pairing and the larger groups, I feel I've learned a lot.
