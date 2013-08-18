@@ -7,6 +7,7 @@ body {
 }
 a {
   color: black;
+  font-weight: bold;
 }
 a:hover {
   color: #2f574e;
@@ -163,8 +164,9 @@ dl.sub-nav dd.active a {
   color: #fff;
   padding: 3px 9px;
 }
-ul#recent-articles{
-  font-size: 16px;
+ul#recent-articles a{
+  font-size: 18px;
+  font-weight: normal;
 }
 ul.pagination li a {
   display: block;
