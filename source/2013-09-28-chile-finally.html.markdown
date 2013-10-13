@@ -1,7 +1,7 @@
 ---
 title: Chile.  Finally
 date: 2013-09-28
-tags:
+tags: Travel, Chile
 ---
 
 Before gSchool even started, we found out our friends Sarah and Rod were getting married a few weeks after gSchool graduation.  They live in Santiago, Chile and were getting married down there, so we figured it was the perfect trip to a) see the two of them, since we obviously don't get to see each other very often, and b) take a much needed vacation after six months of non-stop work at gSchool.  Turned out it worked just fine with my eventual job too, since I didn't start until September, and we would be taking off for Chile at the beginning of August.
