@@ -285,8 +285,8 @@ footer.row {
 }
 
 p {
-  font-size: 20px;
-  line-height: 120%
+  font-size: 17px;
+  line-height: 130%
 }
 hr {
   border-top: 1px solid black;
@@ -303,6 +303,6 @@ hr {
   padding-top: 20px;
 }
 li {
-  font-size: 20px;
+  font-size: 17px;
   line-height: 120%;
 }
